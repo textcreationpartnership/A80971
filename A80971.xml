@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An off-spring of mercy, issuing out of the womb of cruelty. or, A passion sermon preached at Christs-Church in Oxford, by that late renowned ornament of the University, William Carwright.</title>
+            <author>Cartwright, William, 1611-1643.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80971</idno>
+            <idno type="STC">Wing C713</idno>
+            <idno type="STC">Thomason E1287_2</idno>
+            <idno type="STC">ESTC R208967</idno>
+            <idno type="EEBO-CITATION">99867882</idno>
+            <idno type="PROQUEST">99867882</idno>
+            <idno type="VID">169716</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80971)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169716)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 173:E1287[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An off-spring of mercy, issuing out of the womb of cruelty. or, A passion sermon preached at Christs-Church in Oxford, by that late renowned ornament of the University, William Carwright.</title>
+                  <author>Cartwright, William, 1611-1643.</author>
+               </titleStmt>
+               <extent>[6], 31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.M. and are to be sold by Iohn Brown at the guilded Acorn in Pauls-Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A passion sermon.</note>
+                  <note>Annotation on Thomason copy: "July. 15.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169716:1" rendition="simple:additions"/>
+            <p>AN Off-ſpring of MERCY, Iſſuing out of the Womb of CRUELTY.</p>
+            <p>OR, A Paſſion SERMON, PREACHED AT <hi>Chriſts-Church</hi> in <hi>Oxford,</hi>
+            </p>
+            <p>By that late Renowned Or<g ref="char:EOLhyphen"/>nament of the Univerſity, <hi>William Cartwright.</hi>
+            </p>
+            <q>
+               <bibl>ACTS. 2. 36.</bibl> Let all the Houſe of Iſrael know aſſu<g ref="char:EOLhyphen"/>redly, that God hath made that ſame Jeſus whom ye have crucified, both Lord and Chriſt.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. M.</hi> and are to be ſold by <hi>Iohn Brown</hi> at the guilded Acorn in Pauls-Church-yard, 1652.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169716:2"/>
+            <pb facs="tcp:169716:2"/>
+            <head>THE PUBLISHER TO THE Ingenuous Reader.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He beſt deſcripti<g ref="char:EOLhyphen"/>on I can make of <hi>Oxfords Cart<g ref="char:EOLhyphen"/>wright</hi> will be but as an heap of noyſome dirt be<g ref="char:EOLhyphen"/>fore the Gates of the Stately <hi>None-ſuch;</hi> My ſilence then as to this great Subject may be excuſable, but my offer to characte<g ref="char:EOLhyphen"/>rize him will be unexpi<g ref="char:EOLhyphen"/>able:
+<pb facs="tcp:169716:3"/> beſides it will be as needleſſe to diſcourſe to the <hi>major</hi> part of men, and Scholars in this Land, of the admirable qualificati<g ref="char:EOLhyphen"/>ons of <hi>W.</hi> C. as laboriou<g ref="char:EOLhyphen"/>ſly to inform the People, that <hi>England</hi> was once governed by Kings, and that Government is now diſmiſſed; I may adde that the most comprehenſive and ſifting headpieces will finde it an hard task to produce an Adequate de<g ref="char:EOLhyphen"/>ſcription of the Authour,
+<pb facs="tcp:169716:3" rendition="simple:additions"/> wherein he ſhall neither be undervalued nor idolized; For my own part I would not offer to detain thee for a ſingle moment (by the interpoſition of theſe groſs lines) from the immediate Survey of this criticall piece; were it not to aſſure thee that it is no baſtard Poſthume, becauſe its printed according to a Co<g ref="char:EOLhyphen"/>py written with the Au<g ref="char:EOLhyphen"/>thours own hand; Reade one pauſe, and then (I be<g ref="char:EOLhyphen"/>leeve) thou wilt have no
+<pb facs="tcp:169716:4"/> more power to leave off till thou haſt through read him, then he that runnes down an hill hath to ſtop himſelf till he come to the bottome; However I am ſure that upon a ſerious and candid view of the whole, thou wilt freely de<g ref="char:EOLhyphen"/>clare that this Childe is very like his Father,</p>
+            <closer>
+               <signed>William Cartwr</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:169716:4"/>
+            <head>An Off-spring of MERCY Iſſuing out of the Womb of CRUELTY.</head>
+            <epigraph>
+               <bibl>ACTS 2. 23.</bibl>
+               <q>Him, being delivered by the deter<g ref="char:EOLhyphen"/>minate counſell and fore-knowledge of God, ye have taken, and by wic<g ref="char:EOLhyphen"/>ked hands have crucified and ſlain.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He words preſent unto us S<hi rend="sup">t</hi> 
+               <hi>Peters</hi> charging the Jews with our Sa<g ref="char:EOLhyphen"/>viours death: You may therefore obſerve in them,</p>
+            <p>Firſt, The Patient or Perſon put
+<pb n="2" facs="tcp:169716:5"/> to death, together with his quality implied in this word <hi>(Him)</hi> by its relation to the precedent verſe, <hi>Je<g ref="char:EOLhyphen"/>ſus of Nazareth, a man approved of God among you, by miracles, wonders, and ſigns, which God did by him.</hi>
+            </p>
+            <p>Secondly, The Agents or Con<g ref="char:EOLhyphen"/>trivers of his death; and theſe of two ſorts,</p>
+            <p n="1">1. The ſupernaturall Agent, <hi>God,</hi> together with his manner of operation, a thing of providence in theſe words, <hi>Being delivered by the determinate counſell and fore<g ref="char:EOLhyphen"/>knowledge of God.</hi>
+            </p>
+            <p n="2">2. The inferiour Agents the Jews, together with their manner of operation, A thing of malice in theſe words, <hi>Ye have taken, and by wicked hands have crucified and ſlain.</hi>
+            </p>
+            <p>So now, if you will conſider, the Patient as God and man, but u<g ref="char:EOLhyphen"/>nited; the Agents God and Man, but ſeparated; they and their ope<g ref="char:EOLhyphen"/>rations ſo diſpoſed, that one anſ<g ref="char:EOLhyphen"/>wers
+<pb n="3" facs="tcp:169716:5"/> the other: for God there, man here; for delivering there, ta<g ref="char:EOLhyphen"/>king and crucifying and ſlaying here: And for determinate coun<g ref="char:EOLhyphen"/>ſell and fore-knowledge there, wic<g ref="char:EOLhyphen"/>ked hands here.</p>
+            <p>I begin with the Patient, and his quality imply'd, <hi>Jeſus of Naze<g ref="char:EOLhyphen"/>reth,</hi> &amp;c.</p>
+            <p n="1">1. The Patient and his quality. The guilt of the world was now ſuch, that for its originall and pro<g ref="char:EOLhyphen"/>priety as it came from us, and was ours, none but a man ought to make ſatisfaction: and for its ob<g ref="char:EOLhyphen"/>ject and bound, as it was immenſe againſt the immenſe, none but a God could: becauſe the nature in which this infinite offence was, was of it ſelf finite, and ſo bore no pro<g ref="char:EOLhyphen"/>portion to that immenſity of Maje<g ref="char:EOLhyphen"/>ſty which it injured. He therefore that was to make the ſatisfaction, had a neceſſity laid upon him to be both God and Man. As man only,
+<pb n="4" facs="tcp:169716:6"/> his ſufferings were unprofitable; for he that hath need of a Media<g ref="char:EOLhyphen"/>tor himſelf, how could he perform the office of one to himſelf and o<g ref="char:EOLhyphen"/>thers? As God only, his ſufferings were impoſſible; for he that hath nothing to ſuffer in, how can he ſuffer? Both natures therfore met, or rather the God of nature took our nature into himſelf, that he might both ſuffer by the fleſh he aſſumed, and give a price to theſe ſufferings by the Divinity which aſſumed it. And of this that he was both God and man, his life and death ſuffici<g ref="char:EOLhyphen"/>ently convinced the Jews: For they were both ſuch, as if he, that was himſelf the truth, had came to bear witneſſe of it. That he was God, appeared by his miracles: he was Man, by his ſufferings, <hi>Opera<g ref="char:EOLhyphen"/>tus, ut fortis; paſsus ut infirmus: Auguſt. de Paſs. Serm.</hi> 1. They ſaw the power of the Son of God combined and twiſted with the in<g ref="char:EOLhyphen"/>firmities
+<pb n="5" facs="tcp:169716:6"/> of the Son of man: One part priviledged and guarded by miracles, the other unſheltred and liable to injuries: He changed the courſe of nature by his actions, and confeſſed the weakneſſe of it in his paſſion. To have done ſo, and ſuf<g ref="char:EOLhyphen"/>fered ſo, the Apoſtle thinks here demonſtration enough to leave the Jews inexcuſable of this ſlaughter. As for doing of miracles his pow<g ref="char:EOLhyphen"/>er was ſuch, that when he ſaid, <hi>Come forth,</hi> the grave could no lon<g ref="char:EOLhyphen"/>ger hold her dead; Death it ſelf grew impotent, and never ſuffered him to call twice. When he ſaid, receive thy ſight, or be ye opened, immediatly the veil flew from the eyes, and the barres fell from the ears; with the word the blinde ſaw the man that wrought the cure, and with the word the de<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> heard the tongue that made him hear; I do not ſay, that all miracles prove the authour a God, for I
+<pb n="6" facs="tcp:169716:7"/> know ſome are reſerved for the de<g ref="char:EOLhyphen"/>monſtration of Antichriſt, <hi>that man of ſinne.</hi> But the miracles of our Saviour were all of that ſtamp, that if we conſider either the actions themſelves, or his manner of do<g ref="char:EOLhyphen"/>ing them, they muſt needs ſhew a perſonall preſence of the Deity, and a grace beyond that of Ado<g ref="char:EOLhyphen"/>ption, A grace of union with the father. For the miracles them<g ref="char:EOLhyphen"/>ſelves, they were ſuch deeds as were both deeds and ſigns; won<g ref="char:EOLhyphen"/>ders, in which the wonder was the leaſt; wonders, that clouded the marvell with the myſtery; won<g ref="char:EOLhyphen"/>ders, that ſhewed more then was conceived, and hid more then they ſhewed. He knew what they ſaid, and what they ſaid not, and an<g ref="char:EOLhyphen"/>ſwered them when as yet they had but made the queſtion in their hearts. To go further, His works were ſuch, devils obeyed him, not out of will that they deſired to do
+<pb n="7" facs="tcp:169716:7"/> ſo, But out of Impotence that they could not do otherwiſe: they tried to reſiſt, and found themſelves un<g ref="char:EOLhyphen"/>able; legions of them doubted him, and legions when they had doubt<g ref="char:EOLhyphen"/>ed him confeſſed him, and did the office of Apoſtles without Apo<g ref="char:EOLhyphen"/>ſtles mindes. But if you will not beleeve but the ſame works may be done by a limited power, yet certainly they cannot the ſame way: His manner of doing them muſt evidence him the Son of God however. Thoſe who work with depandance, and in anothers pow<g ref="char:EOLhyphen"/>er, uſe to invoke ſome higher then themſelves, and adjure by a name mightier then their own: But Chriſt as one himſelf ſufficing to himſelf, made his own name, the conveyance of his power, and <hi>tbought it no robbery to be equall with God.</hi> We reade often in the Goſpel, that <hi>Virtue went out of him,</hi> 
+               <note place="margin">Mar. 5. 30 Luk. 6. 19.</note> So that he received not anothers
+<pb n="8" facs="tcp:169716:8"/> power, but uſed his own: An Ar<g ref="char:EOLhyphen"/>gument of his Divinity, ſo forcible, that he himſelf who did the works, appealed from himſelf to his works, <hi>John</hi> 10. 38. <hi>Etiamſi mihi non creditis<g ref="char:punc">▪</g> operibus credite,</hi> though ye beleeve not me, beleeve the works. But to ſhew his Divinity only by miracles, was not enough. <hi>Sic debuit per miracula Deitatem o<g ref="char:EOLhyphen"/>ſtendere,</hi> 
+               <note place="margin">Leo Serm. de paſſ.</note> 
+               <hi>ut crederetur veritas huma<g ref="char:EOLhyphen"/>nitatis ipſius:</hi> he was to ſhew his Divinity ſo, as that his humanity might be beleeved too. And this he did by many, but chiefly by that greateſt miracle of all, his ſhewing that he who did theſe mi<g ref="char:EOLhyphen"/>racles could die, and that ſo great power of God could come wrapt up in ſo much infirmity of the fleſh. You may now think, that one who laboured thus by doctrine and mi<g ref="char:EOLhyphen"/>racles to bring the Nation of the Jews to ſalvation; who, not con<g ref="char:EOLhyphen"/>tent with ordinary and each daies
+<pb n="9" facs="tcp:169716:8"/> innocence, lived at that rate of per<g ref="char:EOLhyphen"/>fection, that he reckoned leſſe good among ill, and thought no<g ref="char:EOLhyphen"/>thing enough where there is room for more. One that brought in Re<g ref="char:EOLhyphen"/>ligion as the beſt policy of King<g ref="char:EOLhyphen"/>domes; and that preached high virtues, but practiſed higher, ſtill conquering the hardneſſe of his precept, by the ſeconding it with a more hard example.</p>
+            <p>You may certainly, I ſay, think that the Jews would have demand<g ref="char:EOLhyphen"/>ed this man of miracles, this man himſelf a miracle greater then thoſe he did, for their King to go in and out before them. But <hi>Qui vident, videre nolunt,</hi> though he was ap<g ref="char:EOLhyphen"/>proved among them by miracles, and they themſelves alſo knew it, they accuſed him of Treaſon, and the common cry ran, <hi>We have no King but Caeſar.</hi> Let me a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k you (O ye perverſeſt of Nations) Did Angels appear at the birth of <hi>Cae<g ref="char:EOLhyphen"/>ſar?</hi>
+               <pb n="10" facs="tcp:169716:9"/> Was <hi>Glory to God on high, on Earth peace, good will towards men,</hi> ſung by them when he came into the world? Was <hi>Caeſar</hi> the glory of <hi>Iſrael,</hi> and a Horn of ſalvation to his people? But (alas) not to take him into the throne was not ſo great an ignominy: To preferre a Robber, a Murderer before him, this was the Dregs of Scorn: A<g ref="char:EOLhyphen"/>way with this man, and releaſe un<g ref="char:EOLhyphen"/>to us <hi>Barrabas.</hi> And again, <hi>Not</hi> 
+               <note place="margin">Luk. 23. 18, 21.</note> 
+               <hi>him but Barabas.</hi> What ſpirit of contempt is here? It runs not thus, <hi>Away with Jeſus, and not Jeſus;</hi> But away with this man, and not him: They account him ſo vile, that (as their ſuperſtition was not to name the thing they held exe<g ref="char:EOLhyphen"/>crable) they endeavoured to abo<g ref="char:EOLhyphen"/>liſh his memory before his perſon. But what <hi>Barabbas?</hi> O yee ſeeing who ſee not! One that fed your multitudes? Not one that robbed them of that which ſhould have fed
+<pb n="11" facs="tcp:169716:9"/> them. What <hi>Barabbas?</hi> One that cured your blinde, or healed your halt and lame? no, one whoſe vi<g ref="char:EOLhyphen"/>olences maimed them, and by the frequency of his injury occaſional<g ref="char:EOLhyphen"/>ly encreaſt the number perhaps of thoſe miracles that Jeſus wrought. Did he uſe or deſerve the whip? Did <hi>Barrabas</hi> purge the Temple of theeves, or make it their Denne? Did he caſt out Devils, or do Acts by the inſtigation of the Prince of them? A wicked generation they were to ask a ſigne, but more wic<g ref="char:EOLhyphen"/>ked <note place="margin">Matt. 12. 39.</note> not to beleeve when they had ſo many given them. Nor are they ſo quietly and civilly impious as not to beleeve; that they go on to deſpight the Authour of Miracles, by tempting him to do one upon himſelf. <hi>If thou art the Son of God, come down from the Croſſe:</hi> Why the very condition forbids the in<g ref="char:EOLhyphen"/>ference; He therefore will not come down becauſe he is the Son
+<pb n="12" facs="tcp:169716:10"/> of God, and came to obey his Father, by whom he was deliver<g ref="char:EOLhyphen"/>ed, which cals me from the Pati<g ref="char:EOLhyphen"/>ent to the ſuperiour Agent, God, with his manner of Operation, A thing of Providence, <hi>Delivering by determinate counſell and fore-know<g ref="char:EOLhyphen"/>ledge,</hi> the ſecond thing to be ſpo<g ref="char:EOLhyphen"/>ken of,
+<q>Him, being delivered by the determi<g ref="char:EOLhyphen"/>nate counſell and fore-knowledge of God.</q>
+            </p>
+            <p>Secondly, Superiour Agent and his operation.</p>
+            <p>Had not God from the begin<g ref="char:EOLhyphen"/>ning decreed the paſſion of his Son Jeſus, our redemption had been a thing of raſhneſſe, altogether un<g ref="char:EOLhyphen"/>worthy either the performance or acceptance of a Deity; And chance being more eminent then care and love in the ſalvation of mankinde, the death of our Saviour had been a ryot rather then a ſacrifice. As the devils craft projected and brought
+<pb n="13" facs="tcp:169716:10"/> about our ſlavery by the labours and anxiety of malice; So the wiſedom of God was to exclude fortune from the buſineſſe of our redemption, by the counſell and contrivance of love. By the ſub<g ref="char:EOLhyphen"/>tlety of the Deſtroyer, the ſting of ſin entring into one wounded the world; and the infection of the perſon ſpread it ſelf in equall wide<g ref="char:EOLhyphen"/>neſſe with the nature. By the wiſe<g ref="char:EOLhyphen"/>dome then of the preſerver, the righteouſneſſe of one was to juſti<g ref="char:EOLhyphen"/>fie the world, and the merits of that perſon to extend themſelves to the utmoſt skirts of nature too. The Paſſion therefore of one Chriſt, was purpoſely projected, ſo nume<g ref="char:EOLhyphen"/>rous, that not a ſingle lamb was of<g ref="char:EOLhyphen"/>fered but the herd of the world, that mankinde rather then one man ſuffered, and ſo the Kingdom of that Prince of darkneſſe was diſ<g ref="char:EOLhyphen"/>ſolved; Diſſolved indeed occaſio<g ref="char:EOLhyphen"/>nally by that which raiſed it, ſin.
+<pb n="14" facs="tcp:169716:11"/> Death deſtroyed death, and iniqui<g ref="char:EOLhyphen"/>ty looſed the bands of iniquity, and the works of that malicious one overthrew themſelves. And to this ſtratagem was there not requi<g ref="char:EOLhyphen"/>red the fore-knowledge, and coun<g ref="char:EOLhyphen"/>ſell, and determination of the Deity?</p>
+            <p>The Schools have found out 3. waies by which the father is ſaid to have delivered his Son.</p>
+            <p n="1">1. <hi>Praeordinando ejus paſsionem ex</hi> 
+               <note place="margin">
+                  <hi>Aquin.</hi> p. 3. q. 47. Ar. 3</note> 
+               <hi>ſuâ voluntate;</hi> by preordaining his paſſion from his eternall will, and this is that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <note place="margin">Phil. 2. 8.</note> 
+               <hi>that determinate counſell and fore<g ref="char:EOLhyphen"/>knowledge of God</hi> in the Text. And according to this they ſay, his thirſt upon the Croſſe was not of nature but decree, preordained from everlaſting, not caſuall or e<g ref="char:EOLhyphen"/>mergent for the time.</p>
+            <p n="2">2. <hi>Inſpirando ei voluntatem pati<g ref="char:EOLhyphen"/>endi,</hi> by inſpiring him with a wil<g ref="char:EOLhyphen"/>lingneſſe to ſuffer, and hence it is
+<pb n="15" facs="tcp:169716:11"/> that the Apoſtle ſaith he became <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>obedient to the death, even the death of the Croſſe.</hi> And this his thirſt when he was ſtretch't upon it, was not to full<g ref="char:EOLhyphen"/>fill any deſire but that of our re<g ref="char:EOLhyphen"/>demption.</p>
+            <p n="3">3. <hi>Non protegendo eum a paſsione,</hi> by not protecting him from his ſufferings, but wholly expoſing him to the bitterneſſe of them: In<g ref="char:EOLhyphen"/>ſomuch that he who was one with the father, complain'd of the fa<g ref="char:EOLhyphen"/>thers dereliction, and that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the Text, the being given and delivered up into wicked hands.</p>
+            <p>But was not the Sons love the leſſe in that his father thus gave him up?</p>
+            <p>It had been ſo indeed<g ref="char:punc">▪</g> had he not given up himſell too, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not himſelf as 'twere been of counſell againſt himſelf, and conſpired to his own delivery: His fathers will was ſo much his, as that I may ſay,
+<pb n="16" facs="tcp:169716:12"/> his father onely did not forſake him, but he himſelf alſo in a man<g ref="char:EOLhyphen"/>ner forſook himſelf, for his wil<g ref="char:EOLhyphen"/>lingneſſe to die was ſuch, that his <note place="margin">Iſa. 53. 11</note> Paſſion which <hi>Iſaiah</hi> cals his Brui<g ref="char:EOLhyphen"/>ſing and the Travell of his Soul; he himſelf cals but a Baptiſm, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <note place="margin">Luke 12. 30.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. He came to his death as to a holy dipping or waſhing, ſomething that would conſecrate him; and to all his ſuf<g ref="char:EOLhyphen"/>ferings as to ſo many Ceremonies of honour. There are indeed paſ<g ref="char:EOLhyphen"/>ſages in Scripture that ſeem to ex<g ref="char:EOLhyphen"/>preſſe a drawing back of our Savi<g ref="char:EOLhyphen"/>our, and a kinde of reluctance of that great Sacrifice: But if we more warily conſider them, they ſhew only a large and handſome fear of the danger, not any cloſe or diſho<g ref="char:EOLhyphen"/>nourable deſire to avoid the en<g ref="char:EOLhyphen"/>counter. In Saint <hi>Mathew</hi> 'tis ſaid <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he began to be ſorrowfull and heavy; words <note place="margin">Mat. 26. 37.</note> that expreſſe a greatneſs and weight
+<pb n="17" facs="tcp:169716:12"/> of the danger, with a juſt appre<g ref="char:EOLhyphen"/>henſion of it; Not any dejection of ſpirit, but a ſolemn grief, and ſad oppreſſion of it, ſuch as is emi<g ref="char:EOLhyphen"/>nent in afflicted fortitude. In Saint <hi>Mark</hi> it is ſaid <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>he</hi> 
+               <note place="margin">Ch. 14. v. 33.</note> 
+               <hi>began to be ſore amazed,</hi> a word that intimates aſtoniſhment, and ſtand<g ref="char:EOLhyphen"/>ing agaſt at the danger, not through any failing of courage, but through a ſerious manage of it; he had a generous horrour of the cup that was to be drunk of, a noble and al<g ref="char:EOLhyphen"/>lowable amazement, as when na<g ref="char:EOLhyphen"/>tures affection flies back from the face and preſence of the evill, but reaſon corrects it, and thruſts on to the heat and buſineſſe, and trade or the danger. Theſe his few de<g ref="char:EOLhyphen"/>liveries of himſelf, this from their intended ſtoning, and that from their plotted precipitation of him, were not ſo much declinings of ſufferings, as reſervations of him<g ref="char:EOLhyphen"/>ſelf to this kinde of ſuffering: And
+<pb n="18" facs="tcp:169716:13"/> this very expiring in this at laſt, not <note place="margin">John 19. 30.</note> of neceſſity but choice, for 'tis ſaid then He bowed the head and gave up the ghoſt; not bowing becauſe he had given it up already, but bowing becauſe he now would: None of the moſt innocent Saints that had ſleep moſt at command, ſo ſlumbred when he would, as Chriſt dyed when he would: He expected that hour which could not compell him when it came, and he reſigned his life not to the law of humane nature (which <hi>So<g ref="char:EOLhyphen"/>cinus</hi> unadviſedly affirms) but to that deliberate and definite conſti<g ref="char:EOLhyphen"/>tution of eternal order: ſo that His fathers fore-knowledge and coun<g ref="char:EOLhyphen"/>ſell aſſerted his death from caſual<g ref="char:EOLhyphen"/>ty: His own obedience in laying his life down, exempted it from ne<g ref="char:EOLhyphen"/>ceſſity; His expectation of ſuffer<g ref="char:EOLhyphen"/>ing freed it from immaturity: And his manner of ſuffering, not how nor when they would? but how
+<pb n="19" facs="tcp:169716:13"/> and when himſelf would, vindi<g ref="char:EOLhyphen"/>cated it from the conqueſt of ma<g ref="char:EOLhyphen"/>lice. And thus he was that moſt abſolute ſacrifice, fore-known, de<g ref="char:EOLhyphen"/>creed, obedient, fitted, and him<g ref="char:EOLhyphen"/>ſelf his own Prieſt: We ſee hence God foreſaw, and from Eternity decreed the paſſion of his Son, as being the authour of all good: But the ſins of thoſe that were the Ex<g ref="char:EOLhyphen"/>ecutors of it, he foreſaw only with<g ref="char:EOLhyphen"/>out decreeing, as being the Au<g ref="char:EOLhyphen"/>thour of no evill: which will ſome<g ref="char:EOLhyphen"/>what appear in our conſideration</p>
+            <list>
+               <item>of
+<list>
+                     <item>
+                        <hi>The Inferiour Agents,</hi> the Jews.</item>
+                     <item>
+                        <hi>Their manner of Operation, a thing of malice,</hi> taking and by wicked hands crucifying and ſlaying.</item>
+                     <item>The laſt thing to be ſpoken of, <hi>Him being delivered,</hi> &amp;c.</item>
+                  </list>
+               </item>
+            </list>
+            <p>And if delivered by the deter<g ref="char:EOLhyphen"/>minate counſell of God, how could he not be taken? or how ta<g ref="char:EOLhyphen"/>ken by wicked hands? what the
+<pb n="20" facs="tcp:169716:14"/> Almighty foreſees, is it not becauſe he foreſees? And what is becauſe he foreſees, is it not good? Theſe Queſtions (I muſt confeſſe) are certainties in things naturall, but vain doubts only in morall. For that neceſſity of unavoidable be<g ref="char:EOLhyphen"/>ing from the fore-ſight of God, bindes not in morality, becauſe man is a free and maſter-creature: A Lord of himſelf and others, and comes not out with a yoke upon his neck, as the reſt of the univerſe, his Servants do.</p>
+            <p>The things of nature God fore<g ref="char:EOLhyphen"/>ſees as the object of his know<g ref="char:EOLhyphen"/>ledge, and the effects of i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> too: but the actions of men he foreſees, not as the effects but the objects only. Or if you will thus. The fore<g ref="char:EOLhyphen"/>knowledge of God cauſeth things not ſimply to be, but to be as he foreknows them. He then making the Agent contingent, foreſees his actions contingent, and ſo is a cauſe
+<pb n="21" facs="tcp:169716:14"/> that they are not neceſſary. We may not then ſay, becauſe by the fore-knowledge and counſell of God Chriſt took fleſh, that what was fore-known might be done, that God by that fore-knowledge and counſell cauſed it to be done; or becauſe God knew that the Jews would apprehend our Savi<g ref="char:EOLhyphen"/>our, that he arm'd them to appre<g ref="char:EOLhyphen"/>hend him. The will to die, and the ſlaying of him that would die, were too much enemies to come from the ſame inſpiration. Each <note place="margin">
+                  <hi>Leo Serm.</hi> 16. on <hi>Paſſ.</hi>
+               </note> action is ſtampt good or bad, from the intent and root from which it ſprings: God delivered Jeſus out of Love, the Jews took him and ſlew him out of Envy. There the integrity of the deſigne made his death a ſacrifice; Here the blemiſh made it a murder: thence came a Savour of life unto life, hence of death unto death. But whence there that chain of order? Whence
+<pb n="22" facs="tcp:169716:15"/> ſuch aeconomy and method in their ſinne? Why, though God be the Authour of no ſinne, he is yet the orderer of all: who ſquar'd not the ſinnes of his enemies to the ſufferings of his Son; but the ſuf<g ref="char:EOLhyphen"/>ferings of his Son to the ſinnes of his enemies? And ſo extracting good of bad, when bad was, uſed this malice of the Jews; and as a Phyſician who is not the Authour of that poyſon which he imploys, made a reſtorative of thoſe who had made themſelves a Genera<g ref="char:EOLhyphen"/>tion of vipers. And this is that <note place="margin">
+                  <hi>Serm.</hi> 11. on <hi>Paſſ.</hi>
+               </note> which <hi>Leo</hi> ſaith, While they were intent to ſerve themſelves, by wic<g ref="char:EOLhyphen"/>kedneſſe they miniſtred to one whom they thought not of: God according to Saint <hi>Auguſtines</hi> ob<g ref="char:EOLhyphen"/>ſervation, fullfilling his own good purpoſes, by the purpoſes of men that are not good. But I conſider, that God hath truſted us with his Commandements, and not with
+<pb n="23" facs="tcp:169716:15"/> the order of the Univerſe, and that our own endeavouvs are therefore to be lookt a ter by us, and the un<g ref="char:EOLhyphen"/>ſearchableneſſe of his charge to be left to himſelf. 'Twas not then out of obedience (which cannot be but with knowledge of the rule, which was here ſecret) but out of malice that the Jews took our Saviour; and Saint <hi>Peter</hi> here juſtly chargeth that whole Nation with it, they being all guilty (as <hi>Calvin</hi> ſtates it) either by action, or conſent, or ſilence in the cauſe of that righ<g ref="char:EOLhyphen"/>teous one. There were Gentiles ('tis true) in the plot as well as Jews, but the Gentiles did not know him, the Jews did: The Gentiles had no Law nor Scri<g ref="char:EOLhyphen"/>pture: The Jews pretended to know and ſearch both: The Jews were inexcuſable becauſe they knew what they did; the Gentiles were ſo farre excuſable that Chriſt himſelf ſeem'd to pray for them
+<pb n="24" facs="tcp:169716:16"/> as for a people not knowing what themſelves did. The imputation therefore of the Death is the Jews by excellence: And our Saviours ſufferings were in this the grea<g ref="char:EOLhyphen"/>ter, that they were from ſuch a peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>For if we conſider the whole Nation, what were they? The ſlaves of the Romans then, and the refuſe of the world ever; A people (as at this day) hating all, and hated of all: A Nation that God choſe (as himſelf intimates) not for any worth or bravery of ſpirit, but that he might glorifie himſelf in the vile things of the earth, and ſhew his ſtrength in weakneſſe: no comfort then to our Saviour from the Authour of his paſſion, nor the fall any way ennobled by the hand from whence it came: He had that ut<g ref="char:EOLhyphen"/>moſt of misfortune in death, not to finde an honourable enemy, Their
+<pb n="25" facs="tcp:169716:16"/> behaviour then was viler then their perſons. The Religious and heavy malice of the Prieſts and Elders, the ſolemn and ſevere impiety of the Scribes and Phariſees, ſeriouſly adviſing that no tumult may di<g ref="char:EOLhyphen"/>ſturb the feaſt. You may think this was from the very chair of Religion: The Court indeed pre<g ref="char:EOLhyphen"/>tended devotion, but ſerved a moſt impious deſign. This fear of tumult in the ſolemnity (as is obſerved by one of the Fathers) was not that the people might not ſin, but that they might not ſave him: They feared not Prophanation, but a reſ<g ref="char:EOLhyphen"/>cue. Theſe were wicked intentions I am ſure, what muſt the hands then be that executed them? why ſtand a while, and obſerve, and then conclude.</p>
+            <p>
+               <hi>Jeſus taken</hi> (if he may be ſaid taken who came into their hands) is hurried from place to place, poſt<g ref="char:EOLhyphen"/>ed from Judge to Judge, put over
+<pb n="26" facs="tcp:169716:17"/> from torment to torment, from the Garden to <hi>Annas,</hi> from <hi>Annas</hi> to <hi>Caiphas,</hi> from <hi>Caiphas</hi> to <hi>Pilate,</hi> from <hi>Pilate</hi> to <hi>Herod,</hi> from <hi>Herod</hi> to <hi>Pilate</hi> again; Cruelty walking the circle, and impiety (if ever) now treading the ring. His apprehend<g ref="char:EOLhyphen"/>ing joyn'd to his Agony, his accu<g ref="char:EOLhyphen"/>ſation to his apprehending, and his condemnation to that: Then his condemnation received by irriſion, irriſion by ſtripes, ſtripes by crow<g ref="char:EOLhyphen"/>ning with thorns. ('Tis not to be told with the ſame continuation that he ſuffered it) Then carrying his Croſſe, extenſion, nayling, lift<g ref="char:EOLhyphen"/>ing up, and after all this buſineſſe, and tumult of motion, his reſt only upon the Croſſe. A reſt indeed, ſuch as wity cruelty, when it imploys and tasks invention to ſerve it, would at laſt give: A reſt, by which torment ceaſed not but was continued; A reſt that detain'd the ſoul only to make it part with more
+<pb n="27" facs="tcp:169716:17"/> torture; the ſtrugling Spirit eſca<g ref="char:EOLhyphen"/>ping by parcels, as water out of a narrow mouth'd veſſell, the man dying not once, but long. And were not theſe wicked hands? But there is yet ſomething behinde to make even the Croſſe more infamous, more a Croſſe; They crucified him (as it is generally obſerved) <hi>In medio terrae,</hi> in the very center and navell of the earth; <hi>In medio populi,</hi> in the middle channell of flouds of peo<g ref="char:EOLhyphen"/>ple; <hi>In medio malefactorum,</hi> between theeves, as the more thief; In an in<g ref="char:EOLhyphen"/>famous place, on high, without gar<g ref="char:EOLhyphen"/>ments, in the force of day, that no<g ref="char:EOLhyphen"/>thing could be hidden: Laſtly, at the Feaſt of their Paſſeover, thoſe <hi>Nundinae Religioſae,</hi> thoſe publique Wakes of Religion, and generall Mart of Sacrificing, were not theſe, if any, wicked hands? wicked in<g ref="char:EOLhyphen"/>deed to the utmoſt if you conſider only the Action; But if the inten<g ref="char:EOLhyphen"/>tion, the book of Infamy wants a
+<pb n="28" facs="tcp:169716:18"/> name to brand them. For they did this to deſpight the Lord of life, and to grieve his Spirit <hi>who was to ſeal them to the day of redemption.</hi>
+            </p>
+            <p>And now after theſe hands, Is this he that is more beautifull then all the Sonnes of men? This that goodly perſon that whoſoever loo<g ref="char:EOLhyphen"/>ked on, bleſt the Womb that bare him, and the paps that gave him ſuck? This that face that the An<g ref="char:EOLhyphen"/>gels cannot look on, and yet will not look off? yes, I adde to this, their malice hath augmented that beauty. <hi>Quae dabo magis ex horrido</hi> 
+               <note place="margin">Seneca.</note> 
+               <hi>ſpecioſa,</hi> Miſeries conſecrate worthy countenances, and make that which entire was our pleaſure, broken be<g ref="char:EOLhyphen"/>come our worſhip. <hi>Perdiderunt tot mala,</hi> they loſt all their injuries: That their ſpunge ſwel'd with gall and vinegar, did (as that froward Pain<g ref="char:EOLhyphen"/>ters ſpunge) perfect that work they thought to ſpoil. For when he had drunk, He ſaid, <hi>Conſummatum eſt</hi> It
+<pb n="29" facs="tcp:169716:18"/> is finiſht: and ſo by a largeneſſe of charity freely breathing out his ſaving ſpirit into the world, revived the nations dead in treſpaſſes. Here me thinks I ſee the Croſſe ſet up as the bound and pillar of the Law; and hear God himſelf ſaying, Hi<g ref="char:EOLhyphen"/>therto ſhalt thou come and no fur<g ref="char:EOLhyphen"/>ther, and here ſhall thy killing let<g ref="char:EOLhyphen"/>ter it ſelf die.</p>
+            <p>Thus was it his determinate counſell, that the Old Teſtament ſhould be ſwallowed up in the New, that all thoſe Ceremonies of ſacrifice ſhould be buried in that immaculate ſacrifice that he him<g ref="char:EOLhyphen"/>ſelf delivered, and that the Sepul<g ref="char:EOLhyphen"/>chre of <hi>Moſes</hi> ſo long hid from the world, ſhould be found at laſt in our Saviour Chriſt. Thus did the Sun of Righteouſneſſe ſet with more grace and ſweetneſſe, then ei<g ref="char:EOLhyphen"/>ther he did riſe or run his courſe with, and enlightning his thorns in ſo many pointed Rayes, of that his
+<pb n="30" facs="tcp:169716:19"/> greateſt work, His death made glo<g ref="char:EOLhyphen"/>ries and circles of luſtre for all the reſt of his actions: Thus when the Jews by divine fore-knowledge had brought the Deity to that deſpica<g ref="char:EOLhyphen"/>bleneſſe, that they occaſioned thoſe miracles, That He ſhould be im<g ref="char:EOLhyphen"/>pleaded and condemned who is Judge of all; He laden with cur<g ref="char:EOLhyphen"/>ſes, that ſcatters bleſſings as Sunne-beams over the face of the world; That health it ſelf languiſht, and the very impaſſible ſuffered. God (who is wont to take his riſe where men ſtop) was pleaſed to ſtrike miracles out of theſe, greater then theſe. For behold, <hi>An Off-ſpring of Mercy, iſſuing out of the womb of Cruelty;</hi> A bundle of new mira<g ref="char:EOLhyphen"/>cles as farre beyond the former, as they are oppoſite to them; A con<g ref="char:EOLhyphen"/>demnation that abſolves us; A curſe that bleſſeth us; A ſickneſſe that recovers us; and a death it ſelf that quickens us; So much was
+<pb n="31" facs="tcp:169716:19"/> his love ſtronger then death, who <note place="margin">Heb. 5. 8, 9.</note> though He were a Son, yet learn'd he obedience by the things he ſuf<g ref="char:EOLhyphen"/>fered; and being made perfect he became the Authour of eternall ſal<g ref="char:EOLhyphen"/>vation to all them that obey him.</p>
+            <p>Among which number, O Lord, write our names, for his ſake who this day ſuffered to blot out that hand-writing that was againſt us.</p>
+            <closer>Amen.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
